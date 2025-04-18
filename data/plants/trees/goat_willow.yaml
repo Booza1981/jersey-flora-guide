@@ -1,0 +1,38 @@
+id: goat-willow
+name: Goat Willow / Pussy Willow
+scientific_name: Salix caprea
+category: trees
+description: I'm a small tree or large shrub that can grow up to 10 metres tall. I often have multiple trunks and a broad, irregular crown.
+
+features:
+  appearance:
+    description: I'm a small tree or large shrub that can grow up to 10 metres tall. I often have multiple trunks and a broad, irregular crown.
+    image: /assets/images/plants/trees/goat-willow/full.jpg
+  
+  leaves:
+    description: My leaves are oval with a pointed tip. They're dark green on top but underneath they're covered with dense, white, woolly hairs that feel soft to touch!
+    image: /assets/images/plants/trees/goat-willow/leaves.jpg
+  
+  bark:
+    description: My bark is grey-brown with diamond-shaped fissures that create a distinctive cracked pattern as I get older.
+    image: /assets/images/plants/trees/goat-willow/bark.jpg
+  
+  flowers:
+    description: My flowers are catkins that appear before my leaves in early spring. Male catkins are silver and furry when young (these are the "pussy willows" that people love), and then turn yellow with pollen. Female catkins are greenish.
+    image: /assets/images/plants/trees/goat-willow/flowers.jpg
+  
+  seeds:
+    description: My seeds are tiny and attached to fluffy white hairs that help them float on the wind like little parachutes!
+    image: /assets/images/plants/trees/goat-willow/seeds.jpg
+
+fun_facts:
+  - I'm one of the first trees to flower in spring, which makes me super important for hungry bees and other insects when they wake up from winter.
+  - Over 160 different insect species can feed on parts of me!
+  - My catkins are sometimes called 'pussy willows' because they're soft and furry like cat paws.
+  - My wood is flexible and can be used for making baskets.
+
+seasonal_info:
+  spring: My silver catkins appear before my leaves - a sign that spring is coming!
+  summer: My leaves are fully grown and provide food for many insects
+  autumn: My leaves turn yellow before falling
+  winter: Look out for my furry catkin buds forming 

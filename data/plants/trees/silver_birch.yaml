@@ -1,0 +1,38 @@
+id: silver-birch
+name: Silver Birch
+scientific_name: Betula pendula
+category: trees
+description: I am a graceful tree, often looking tall and slim. I'm known as a 'pioneer' because I can grow in lots of different places, even where the soil isn't very rich.
+
+features:
+  appearance:
+    description: I am a graceful tree, often looking tall and slim. I'm known as a 'pioneer' because I can grow in lots of different places.
+    image: /assets/images/plants/trees/silver-birch/full.jpg
+  
+  leaves:
+    description: My leaves are quite small and shaped like little triangles with jagged edges. They turn bright yellow in autumn.
+    image: /assets/images/plants/trees/silver-birch/leaves.jpg
+  
+  bark:
+    description: My bark is my most special feature — it's bright white or silvery! Sometimes it peels off like thin paper. Younger trees might have darker bark first.
+    image: /assets/images/plants/trees/silver-birch/bark.jpg
+  
+  flowers:
+    description: Like the Oak, I have dangly flowers called catkins. They release tiny seeds that the wind carries far away.
+    image: /assets/images/plants/trees/silver-birch/flowers.jpg
+  
+  seeds:
+    description: My seeds are packed inside the catkins and are super tiny!
+    image: /assets/images/plants/trees/silver-birch/seeds.jpg
+
+fun_facts:
+  - Lots of tiny insects and caterpillars love to munch on my leaves, which makes me a great snack bar for birds!
+  - My bark was once used to make paper and canoes!
+
+warnings: []
+
+seasonal_info:
+  spring: Catkins appear and new leaves grow
+  summer: Full green leaves
+  autumn: Leaves turn yellow
+  winter: White bark stands out against dark winter sky 

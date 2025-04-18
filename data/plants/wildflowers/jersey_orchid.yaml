@@ -1,0 +1,35 @@
+id: jersey_orchid
+name: Jersey Orchid
+scientific_name: Anacamptis laxiflora
+category: wildflowers
+description: I am a very special flower for Jersey! My flowers are usually a beautiful rich pinkish-purple colour, though sometimes they can be paler pink or even white. They grow spaced out along my tall stem.
+
+features:
+  appearance:
+    description: I'm a tall, elegant orchid with flowers spaced out along my stem. I'm quite rare and special to Jersey's damp meadows.
+    image: /assets/images/plants/wildflowers/jersey-orchid/full.jpg
+  
+  leaves:
+    description: My leaves are long and narrow, growing up my stem. They help me stand tall and straight.
+    image: /assets/images/plants/wildflowers/jersey-orchid/leaves.jpg
+  
+  flowers:
+    description: My flowers are a beautiful rich pinkish-purple color, though sometimes they can be paler pink or even white. Each flower has delicate petals arranged in the special orchid shape.
+    image: /assets/images/plants/wildflowers/jersey-orchid/flowers.jpg
+
+fun_facts:
+  - I'm a very special orchid that grows in Jersey's damp meadows.
+  - Like other orchids, my seeds are tiny - as small as dust!
+  - I need special conditions to grow, which is why I'm only found in certain places.
+  - Bees and other insects help pollinate my flowers.
+
+warnings:
+  - I am a protected species - please don't pick me or disturb my habitat.
+  - The fields where I grow are special protected areas.
+  - Always view me from the designated paths to protect my habitat.
+
+seasonal_info:
+  spring: I start growing and preparing to flower.
+  summer: I flower from May to July, making the meadows beautiful.
+  autumn: My flowers fade and I release my tiny seeds.
+  winter: I rest underground until spring comes again. 

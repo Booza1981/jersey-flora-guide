@@ -1,0 +1,35 @@
+id: buttercup
+name: Meadow Buttercup
+scientific_name: Ranunculus acris
+category: wildflowers
+description: I'm a bright yellow wildflower that grows in meadows and grasslands. I'm known for my shiny petals that look like they're made of butter!
+
+features:
+  appearance:
+    description: I'm a perennial plant that grows up to 1 meter tall. I have bright yellow flowers with 5 shiny petals that reflect light, creating a butter-like shine.
+    image: /assets/images/plants/wildflowers/buttercup/full.jpg
+  
+  leaves:
+    description: My leaves are deeply divided into finger-like segments. They're dark green and grow from the base of the plant and along the stems.
+    image: /assets/images/plants/wildflowers/buttercup/leaves.jpg
+  
+  flowers:
+    description: My flowers are bright yellow with 5 glossy petals that shine like polished butter. Each flower has many stamens in the center.
+    image: /assets/images/plants/wildflowers/buttercup/flowers.jpg
+
+fun_facts:
+  - If you hold me under your chin and see a yellow reflection, it means you like butter! (This is actually just because my petals are very shiny)
+  - My shiny petals are caused by a special layer of cells that reflects yellow light.
+  - Cows and horses don't eat me because I taste bitter and can be toxic.
+  - My Latin name 'Ranunculus' means 'little frog' because I often grow in damp places where frogs live.
+
+warnings:
+  - I contain a toxic compound that can cause blistering if eaten or handled roughly.
+  - Keep me away from livestock as I can be harmful if eaten.
+  - Wash your hands after handling me.
+
+seasonal_info:
+  spring: I start growing new leaves and preparing to flower
+  summer: This is when I'm in full bloom with my bright yellow flowers
+  autumn: My flowering period ends and I produce seeds
+  winter: I die back to my roots and wait for spring 

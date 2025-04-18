@@ -1,0 +1,42 @@
+id: european-beech
+name: European Beech
+scientific_name: Fagus sylvatica
+category: trees
+description: I'm a majestic, large tree that can grow up to 40 metres tall! I have a broad, dense crown and my lower branches often sweep downwards, sometimes almost touching the ground.
+
+features:
+  appearance:
+    description: I'm a majestic, large tree that can grow up to 40 metres tall! I have a broad, dense crown and my lower branches often sweep downwards, sometimes almost touching the ground.
+    image: /assets/images/plants/trees/european-beech/full.jpg
+  
+  leaves:
+    description: My leaves are oval with a pointed tip and wavy edges. When they first appear in spring, they are bright lime green with silky hairs. In autumn, they turn a beautiful golden-bronze color.
+    image: /assets/images/plants/trees/european-beech/leaves.jpg
+  
+  bark:
+    description: My bark is smooth and grey, sometimes with a slight silvery sheen. Even when I'm very old, my bark stays smooth – it doesn't get rough and fissured like many other trees.
+    image: /assets/images/plants/trees/european-beech/bark.jpg
+  
+  flowers:
+    description: My male flowers hang in round clusters, while my female flowers grow in pairs surrounded by a spiky cup.
+    image: /assets/images/plants/trees/european-beech/flowers.jpg
+  
+  seeds:
+    description: My seeds are called beech nuts or beech mast. They grow inside bristly, woody cases that split open when the nuts are ripe. The nuts are small and triangular, with a shiny brown surface.
+    image: /assets/images/plants/trees/european-beech/seeds.jpg
+
+fun_facts:
+  - I can live for up to 400 years!
+  - In ancient times, people used to eat my nuts, which are high in protein and fat.
+  - Animals like squirrels, mice, and birds still love to eat my nuts today.
+  - My wood is often used to make furniture and flooring.
+
+warnings:
+  - Raw beech nuts should only be eaten in small amounts.
+  - Be careful not to slip on fallen beech nuts!
+
+seasonal_info:
+  spring: My bright lime-green leaves appear with silky hairs
+  summer: My leaves darken to deep green and provide dense shade
+  autumn: My leaves turn golden-bronze and my nuts fall
+  winter: My smooth grey bark stands out against other trees 

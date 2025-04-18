@@ -1,0 +1,38 @@
+id: common-hazel
+name: Common Hazel
+scientific_name: Corylus avellana
+category: trees
+description: I can grow as a small tree or a bushy shrub. I often have multiple stems growing from my base.
+
+features:
+  appearance:
+    description: I can grow as a small tree or a bushy shrub. I often have multiple stems growing from my base.
+    image: /assets/images/plants/trees/common-hazel/full.jpg
+  
+  leaves:
+    description: My leaves are round with pointed tips and have a hairy texture. They have toothed (serrated) edges like little saw blades!
+    image: /assets/images/plants/trees/common-hazel/leaves.jpg
+  
+  bark:
+    description: My bark is smooth and brown-grey, often with horizontal lines called lenticels. Sometimes it peels as I get older.
+    image: /assets/images/plants/trees/common-hazel/bark.jpg
+  
+  flowers:
+    description: My flowers appear in early spring as long yellow catkins (sometimes called 'lambs' tails'). They dangle and wave in the breeze!
+    image: /assets/images/plants/trees/common-hazel/flowers.jpg
+  
+  seeds:
+    description: My seeds are hazelnuts! They grow inside leafy cups and are a tasty treat for squirrels and mice.
+    image: /assets/images/plants/trees/common-hazel/seeds.jpg
+
+fun_facts:
+  - People have used my flexible stems for thousands of years to make baskets, fences and garden tools!
+  - My nuts are not just for wildlife - people love to eat them too!
+  - My catkins appear very early in the year, sometimes as early as January.
+  - I can live for hundreds of years if my stems are regularly cut back.
+
+seasonal_info:
+  spring: My catkins release their pollen and my leaves start to grow
+  summer: My leaves are fully grown and my nuts are developing
+  autumn: My nuts ripen and fall, and my leaves turn golden
+  winter: My bare branches show my catkins early in the year 

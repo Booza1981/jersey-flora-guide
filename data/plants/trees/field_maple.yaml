@@ -1,0 +1,38 @@
+id: field-maple
+name: Field Maple
+scientific_name: Acer campestre
+category: trees
+description: I'm a medium-sized tree that can grow up to 20 metres tall. My crown (my leafy top part) is quite rounded and dense.
+
+features:
+  appearance:
+    description: I'm a medium-sized tree that can grow up to 20 metres tall. My crown (my leafy top part) is quite rounded and dense.
+    image: /assets/images/plants/trees/field-maple/full.jpg
+  
+  leaves:
+    description: My leaves have a distinctive shape with 5 rounded lobes – they look a bit like a hand with fingers spread out! In autumn, they turn a beautiful golden-yellow color.
+    image: /assets/images/plants/trees/field-maple/leaves.jpg
+  
+  bark:
+    description: My bark is grey-brown with small scales and shallow fissures. As I get older, my bark develops a gentle corky texture.
+    image: /assets/images/plants/trees/field-maple/bark.jpg
+  
+  flowers:
+    description: My flowers are small, yellow-green, and appear in upright clusters in spring at the same time as my leaves.
+    image: /assets/images/plants/trees/field-maple/flowers.jpg
+  
+  seeds:
+    description: My seeds come in pairs with wings that spread out horizontally like helicopter blades! They twirl as they fall, helping them travel further from the tree.
+    image: /assets/images/plants/trees/field-maple/seeds.jpg
+
+fun_facts:
+  - I'm the only maple tree that's native to the UK!
+  - My wood is very hard and has been used for centuries to make furniture, musical instruments, and even wooden toys.
+  - My leaves provide food for many moth caterpillars.
+  - My flowers provide nectar and pollen for bees and other insects.
+
+seasonal_info:
+  spring: My leaves and flowers appear together in bright yellow-green
+  summer: My leaves provide dense shade and my seeds start developing
+  autumn: My leaves turn golden-yellow and my winged seeds twirl to the ground
+  winter: My bare branches show my distinctive bark pattern 

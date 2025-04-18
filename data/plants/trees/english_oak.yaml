@@ -1,0 +1,40 @@
+id: english-oak
+name: English Oak
+scientific_name: Quercus robur
+category: trees
+description: I am a big, strong tree! People have thought oaks are symbols of strength for a very long time. I can live for hundreds of years.
+
+features:
+  appearance:
+    description: I am a big, strong tree! People have thought oaks are symbols of strength for a very long time. I can live for hundreds of years.
+    image: /assets/images/plants/trees/english-oak/full.jpg
+  
+  leaves:
+    description: My leaves have special wiggly edges, like puzzle pieces! They turn brown in autumn.
+    image: /assets/images/plants/trees/english-oak/leaves.jpg
+  
+  bark:
+    description: Feel my bumpy, wrinkly bark! It's quite rough.
+    image: /assets/images/plants/trees/english-oak/bark.jpg
+  
+  flowers:
+    description: In spring, look for my dangly, stringy flowers called catkins.
+    image: /assets/images/plants/trees/english-oak/flowers.jpg
+  
+  seeds:
+    description: Can you find my little nutty seeds on the ground? They are called acorns and wear little hats called cups!
+    image: /assets/images/plants/trees/english-oak/seeds.jpg
+
+fun_facts:
+  - Squirrels, mice, and badgers love to hide and eat my acorns!
+  - Birds also love to visit my branches.
+  - I can live for hundreds of years and grow very large.
+  - I'm often called the 'King of the Forest' because I'm so important for wildlife.
+
+warnings: []
+
+seasonal_info:
+  spring: My new leaves appear and I grow catkins
+  summer: My leaves are dark green and provide lots of shade
+  autumn: My leaves turn brown and my acorns fall
+  winter: I rest but still provide homes for many animals 

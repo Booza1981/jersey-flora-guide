@@ -1,0 +1,42 @@
+id: common-hawthorn
+name: Common Hawthorn
+scientific_name: Crataegus monogyna
+category: trees
+description: I often grow in hedges and can be quite bushy and dense. Watch out — I have sharp thorns! I can grow into a small tree too, reaching up to 15 metres.
+
+features:
+  appearance:
+    description: I often grow in hedges and can be quite bushy and dense. Watch out — I have sharp thorns! I can grow into a small tree too, reaching up to 15 metres.
+    image: /assets/images/plants/trees/common-hawthorn/full.jpg
+  
+  leaves:
+    description: My leaves are small, usually with 3 to 7 pointy bits called lobes. They are often one of the first green leaves you'll see in spring.
+    image: /assets/images/plants/trees/common-hawthorn/leaves.jpg
+  
+  bark:
+    description: My bark is grey-brown with lots of cracks in it. As I get older, I develop more splits and grooves.
+    image: /assets/images/plants/trees/common-hawthorn/bark.jpg
+  
+  flowers:
+    description: I make lots of pretty white flowers in May (that's why some people call me "May blossom"). They smell sweet and attract bees and other insects.
+    image: /assets/images/plants/trees/common-hawthorn/flowers.jpg
+  
+  seeds:
+    description: My seeds grow inside bright red berries called "haws". Birds love to eat them in autumn and winter.
+    image: /assets/images/plants/trees/common-hawthorn/seeds.jpg
+
+fun_facts:
+  - I'm actually a member of the apple family (called Rosaceae)!
+  - I provide homes and food for over 300 insects.
+  - I make a perfect nesting space for many birds.
+  - People often use me to make hedges because I'm so dense and thorny.
+
+warnings:
+  - Be careful of my sharp thorns!
+  - Birds rely on my berries for food in winter, so please leave them on the tree.
+
+seasonal_info:
+  spring: My leaves appear early and I bloom with white flowers in May
+  summer: My flowers fade and my berries start to form
+  autumn: My berries turn bright red and provide food for birds
+  winter: My bare branches still protect birds' nests 

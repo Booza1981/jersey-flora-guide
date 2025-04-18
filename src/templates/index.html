@@ -1,0 +1,73 @@
+{% extends "base.html" %}
+
+{% block title %}Jersey Flora Guide for Little Explorers{% endblock %}
+
+{% block tree_links %}
+    {% for tree in plants.trees %}
+    <a href="{{ url_for('plant_detail', plant_id=tree.id) }}"
+       class="block hover:bg-green-100 p-2 rounded">
+        {{ tree.name }}
+    </a>
+    {% endfor %}
+{% endblock %}
+
+{% block wildflower_links %}
+    {% for flower in plants.wildflowers %}
+    <a href="{{ url_for('plant_detail', plant_id=flower.id) }}"
+       class="block hover:bg-green-100 p-2 rounded">
+        {{ flower.name }}
+    </a>
+    {% endfor %}
+{% endblock %}
+
+{% block content %}
+<div class="max-w-4xl mx-auto">
+    <h1 class="text-4xl font-bold text-green-800 mb-8 text-center">
+        Hello Nature Explorer! A Guide to Jersey's Amazing Trees and Flowers
+    </h1>
+
+    <div class="bg-yellow-50 rounded-lg p-6 mb-8 shadow-lg">
+        <h2 class="text-2xl font-bold text-green-700 mb-4">Welcome, Little Explorer!</h2>
+        <p class="mb-4">
+            Hello! Are you ready for an adventure? Jersey is full of amazing plants! 
+            Tall trees reach for the sky, and colourful wildflowers hide like jewels 
+            in the grass and hedges. Let's go exploring together and see what we can find!
+        </p>
+        <p class="mb-4">
+            This guide is like a treasure map to help us become super Plant Detectives. 
+            We can look closely at the shapes of the leaves, feel the bumpy bark on the trees, 
+            see all the pretty colours of the flowers, and maybe even find some seeds or berries!
+        </p>
+    </div>
+
+    <div class="grid md:grid-cols-2 gap-8">
+        <!-- Trees Section -->
+        <div class="bg-white rounded-lg p-6 shadow-lg">
+            <h2 class="text-2xl font-bold text-green-700 mb-4">Trees to Discover</h2>
+            <div class="space-y-4">
+                {% for tree in plants.trees %}
+                <a href="{{ url_for('plant_detail', plant_id=tree.id) }}"
+                   class="block p-4 border border-green-200 rounded-lg hover:bg-green-50">
+                    <h3 class="font-bold text-lg">{{ tree.name }}</h3>
+                    <p class="text-gray-600">{{ tree.description[:100] }}...</p>
+                </a>
+                {% endfor %}
+            </div>
+        </div>
+
+        <!-- Wildflowers Section -->
+        <div class="bg-white rounded-lg p-6 shadow-lg">
+            <h2 class="text-2xl font-bold text-green-700 mb-4">Wildflowers to Find</h2>
+            <div class="space-y-4">
+                {% for flower in plants.wildflowers %}
+                <a href="{{ url_for('plant_detail', plant_id=flower.id) }}"
+                   class="block p-4 border border-green-200 rounded-lg hover:bg-green-50">
+                    <h3 class="font-bold text-lg">{{ flower.name }}</h3>
+                    <p class="text-gray-600">{{ flower.description[:100] }}...</p>
+                </a>
+                {% endfor %}
+            </div>
+        </div>
+    </div>
+</div>
+{% endblock %} 

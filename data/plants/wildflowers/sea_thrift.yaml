@@ -1,0 +1,30 @@
+id: sea-thrift
+name: Sea Thrift
+scientific_name: Armeria maritima
+category: wildflowers
+description: I'm a small, cushion-forming plant that grows in tufts about 10-30 cm tall. I love to live on sea cliffs and sandy beaches!
+
+features:
+  appearance:
+    description: I'm a small, cushion-forming plant that grows in tufts about 10-30 cm tall. I love to live on sea cliffs and sandy beaches!
+    image: /assets/images/plants/wildflowers/sea-thrift/full.jpg
+  
+  leaves:
+    description: My leaves grow in dense tufts and look like little grass blades. They're narrow, dark green, and slightly fleshy which helps me survive in salty air.
+    image: /assets/images/plants/wildflowers/sea-thrift/leaves.jpg
+  
+  flowers:
+    description: My flowers form in rounded heads that look like little pink pom-poms! They sit on long, slender stems that stand above my leaves.
+    image: /assets/images/plants/wildflowers/sea-thrift/flowers.jpg
+
+fun_facts:
+  - I used to be pictured on the British threepence coin!
+  - I can live in very harsh, salty environments where other plants can't survive.
+  - My cushion-like growth helps protect me from strong winds.
+  - Bees and butterflies love to visit my flowers.
+
+seasonal_info:
+  spring: My pink pom-pom flowers start to appear
+  summer: I'm in full bloom with lots of pink flowers
+  autumn: My flowers fade but my grassy leaves stay green
+  winter: I stay as a compact cushion of leaves, ready for next spring 

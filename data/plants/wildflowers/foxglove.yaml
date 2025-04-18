@@ -1,0 +1,35 @@
+id: foxglove
+name: Foxglove
+scientific_name: Digitalis purpurea
+category: wildflowers
+description: I'm a tall wildflower that can grow up to 2 meters high! I have a single stem with lots of tubular flowers hanging down one side.
+
+features:
+  appearance:
+    description: I'm a tall wildflower that can grow up to 2 meters high! I have a single stem with lots of tubular flowers hanging down one side.
+    image: /assets/images/plants/wildflowers/foxglove/full.jpg
+  
+  leaves:
+    description: My leaves form a rosette at the base of my stem. They're large, oval and wrinkly with soft hairs on both sides.
+    image: /assets/images/plants/wildflowers/foxglove/leaves.jpg
+  
+  flowers:
+    description: My flowers are shaped like little bells or thimbles. They're usually purple-pink with spots inside. The spots guide bees into the flower to collect nectar!
+    image: /assets/images/plants/wildflowers/foxglove/flowers.jpg
+
+fun_facts:
+  - My name might come from 'folk's glove' (fairy glove) because people thought fairies gave the flowers to foxes to wear as gloves so they could sneak into chicken coops without making noise!
+  - Bumblebees love to crawl inside my flowers to get nectar.
+  - I'm a biennial plant, which means I grow leaves in my first year and flower in my second year.
+  - Medicine can be made from my leaves (but only by trained professionals in laboratories).
+
+warnings:
+  - All parts of me are poisonous if eaten, so please just enjoy looking at me!
+  - Don't touch me as I can be harmful - just admire my beautiful flowers from a safe distance.
+  - Never eat any part of the plant, even if you think it looks interesting.
+
+seasonal_info:
+  spring: My leaves start growing bigger
+  summer: This is when I'm in full flower, covered in beautiful purple-pink bells
+  autumn: My seeds develop and scatter in the wind
+  winter: I survive as a rosette of leaves close to the ground 

@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>{% block title %}Jersey Flora Guide for Little Explorers{% endblock %}</title>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="/assets/css/styles.css">
+</head>
+<body>
+    <!-- Navigation Menu -->
+    <nav class="nav-menu">
+        <button class="nav-toggle">☰ Menu</button>
+        <ul>
+            <li><a href="#welcome">Welcome</a></li>
+            <li>
+                <a href="#" class="section-header">Trees</a>
+                <ul>
+                    {% for tree in plants.trees %}
+                    <li><a href="/plant/{{ tree.id }}" {% if plant and plant.id == tree.id %}class="active"{% endif %}>{{ tree.name }}</a></li>
+                    {% endfor %}
+                </ul>
+            </li>
+            <li>
+                <a href="#" class="section-header">Wildflowers</a>
+                <ul>
+                    {% for flower in plants.wildflowers %}
+                    <li><a href="/plant/{{ flower.id }}" {% if plant and plant.id == flower.id %}class="active"{% endif %}>{{ flower.name }}</a></li>
+                    {% endfor %}
+                </ul>
+            </li>
+            <li><a href="#checklist">Checklist</a></li>
+            <li><a href="#resources">Resources</a></li>
+            <li><a href="#safety">Safety Notes</a></li>
+        </ul>
+    </nav>
+
+    <!-- Back to Top Button -->
+    <button class="back-to-top">↑</button>
+
+    <!-- Main Content -->
+    <div class="content">
+        {% block content %}{% endblock %}
+    </div>
+
+    <footer>
+        <p>Created with ❤️ for young nature explorers of Jersey</p>
+    </footer>
+
+    <script src="/assets/js/main.js"></script>
+</body>
+</html> 

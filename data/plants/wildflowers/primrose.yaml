@@ -1,0 +1,34 @@
+id: primrose
+name: Primrose
+scientific_name: Primula vulgaris
+category: wildflowers
+description: I'm a small, low-growing plant with pretty pale yellow flowers. My name means 'first rose' because I'm one of the first flowers to bloom in spring!
+
+features:
+  appearance:
+    description: I'm a small plant that grows close to the ground. My pale yellow flowers stand out beautifully against my green leaves, especially in early spring.
+    image: /assets/images/plants/wildflowers/primrose/full.jpg
+  
+  leaves:
+    description: My leaves grow in a rosette close to the ground. They're wrinkly with a crinkled edge and have a slightly hairy texture.
+    image: /assets/images/plants/wildflowers/primrose/leaves.jpg
+  
+  flowers:
+    description: My flowers grow on individual stems directly from the base of the plant. They have five petals with a deeper yellow center. Sometimes I can be pink or purple too!
+    image: /assets/images/plants/wildflowers/primrose/flowers.jpg
+
+fun_facts:
+  - My name 'Primula' comes from the Latin word 'primus' meaning 'first' because I'm one of the first spring flowers!
+  - Primroses were once used to make medicines to help with coughs and headaches.
+  - My young leaves can be eaten in salads (but only if a grown-up says it's okay and helps identify them correctly).
+  - I'm a favorite food of caterpillars of some moths.
+
+warnings:
+  - Always have a grown-up help you identify me before touching or eating any part of me.
+  - Some people might be allergic to me, so it's best to ask a grown-up first.
+
+seasonal_info:
+  spring: This is my time to shine! I'm one of the first flowers to bloom in spring.
+  summer: My flowering period continues but starts to wind down.
+  autumn: I focus on growing strong roots and leaves.
+  winter: I stay green but wait for spring to flower again. 

@@ -1,0 +1,35 @@
+id: pyramidal_orchid
+name: Pyramidal Orchid
+scientific_name: Anacamptis pyramidalis
+category: wildflowers
+description: My bright pink or purple flowers grow packed tightly together in a shape like a pyramid or a cone! That's how I got my name.
+
+features:
+  appearance:
+    description: I'm a beautiful orchid with a distinctive pyramid-shaped flower head. My flowers are bright pink or purple and grow in a dense, cone-like cluster.
+    image: /assets/images/plants/wildflowers/pyramidal-orchid/full.jpg
+  
+  leaves:
+    description: My leaves are long, thin, and pointed, growing up my stem. They're a bright green color and help support my flower spike.
+    image: /assets/images/plants/wildflowers/pyramidal-orchid/leaves.jpg
+  
+  flowers:
+    description: My flowers are packed tightly together in a pyramid shape at the top of my stem. Each tiny flower is bright pink or purple and has the special orchid shape.
+    image: /assets/images/plants/wildflowers/pyramidal-orchid/flowers.jpg
+
+fun_facts:
+  - Butterflies and moths especially love my flowers!
+  - They use their long tongues (proboscis) to reach the nectar hidden inside my flowers.
+  - My pyramid-shaped flower head starts blooming from the bottom and works its way up.
+  - I can grow in many different places, from sand dunes to chalky grasslands.
+
+warnings:
+  - I am a protected wildflower - please don't pick me.
+  - Stay on designated paths to protect my habitat.
+  - Take photos instead of picking flowers to remember me by.
+
+seasonal_info:
+  spring: I start growing my leaves and preparing to flower.
+  summer: I flower in June and July, making beautiful pink pyramids.
+  autumn: My flowers fade and I release my tiny seeds.
+  winter: I rest underground until the next growing season. 

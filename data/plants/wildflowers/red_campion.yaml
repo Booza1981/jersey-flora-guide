@@ -1,0 +1,30 @@
+id: red-campion
+name: Red Campion
+scientific_name: Silene dioica
+category: wildflowers
+description: I'm a pretty wildflower that grows about 30-90 cm tall. I have hairy stems and leaves, and lots of bright pink-red flowers.
+
+features:
+  appearance:
+    description: I'm a pretty wildflower that grows about 30-90 cm tall. I have hairy stems and leaves, and lots of bright pink-red flowers.
+    image: /assets/images/plants/wildflowers/red-campion/full.jpg
+  
+  leaves:
+    description: My leaves grow in pairs opposite each other on the stem. They're oval-shaped with pointed tips and covered in soft hairs.
+    image: /assets/images/plants/wildflowers/red-campion/leaves.jpg
+  
+  flowers:
+    description: My flowers are bright pinkish-red with five petals. Each petal is deeply notched, making them look heart-shaped. Male and female flowers grow on separate plants!
+    image: /assets/images/plants/wildflowers/red-campion/flowers.jpg
+
+fun_facts:
+  - My Latin name 'dioica' means 'two houses' because male and female flowers live on different plants.
+  - My bright color helps attract bees and butterflies!
+  - I can flower for a very long time, from spring right through to autumn.
+  - Moths love to visit my flowers in the evening.
+
+seasonal_info:
+  spring: I start flowering early and attract lots of insects
+  summer: I continue flowering, providing nectar for many pollinators
+  autumn: I can still be found flowering in sheltered spots
+  winter: I survive as a low rosette of leaves close to the ground 

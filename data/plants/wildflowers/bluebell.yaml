@@ -1,0 +1,33 @@
+id: bluebell
+name: Bluebell
+scientific_name: Hyacinthoides non-scripta
+category: wildflowers
+description: I am a beautiful spring wildflower with drooping blue-purple bell-shaped flowers. You'll often find me creating stunning carpets of blue in woodlands.
+
+features:
+  appearance:
+    description: I have long, narrow leaves and a slender stem that carries several drooping, bell-shaped flowers of a beautiful blue-purple color.
+    image: /assets/images/plants/wildflowers/bluebell/full.jpg
+  
+  leaves:
+    description: My leaves are long, narrow, and glossy green. They appear before my flowers and help me gather sunlight in early spring.
+    image: /assets/images/plants/wildflowers/bluebell/leaves.jpg
+  
+  flowers:
+    description: My flowers are bell-shaped and usually blue-purple, though sometimes they can be white. They hang down one side of my stem in a graceful curve.
+    image: /assets/images/plants/wildflowers/bluebell/flowers.jpg
+
+fun_facts:
+  - Almost half of the world's bluebells are found in the British Isles!
+  - The sap from my bulbs was once used to make glue for bookbinding.
+  - In folklore, bluebells are sometimes called 'fairy flowers' because it was believed fairies used them to trap passing humans.
+
+warnings:
+  - All parts of me are poisonous if eaten, so please just enjoy looking at me!
+  - It's illegal to dig up my bulbs from the wild.
+
+seasonal_info:
+  spring: This is when I'm at my best, creating beautiful blue carpets in woodlands
+  summer: My flowers fade and I focus on storing energy in my bulbs
+  autumn: My leaves die back and I rest underground
+  winter: I stay dormant underground in my bulb 

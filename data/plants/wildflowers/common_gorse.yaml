@@ -1,0 +1,35 @@
+id: common-gorse
+name: Common Gorse
+scientific_name: Ulex europaeus
+category: wildflowers
+description: I'm a prickly evergreen shrub that can grow up to 2.5 meters tall. I'm covered in spines and have bright yellow flowers that smell like coconut!
+
+features:
+  appearance:
+    description: I'm a prickly evergreen shrub that can grow up to 2.5 meters tall. I'm covered in spines and have bright yellow flowers that smell like coconut!
+    image: /assets/images/plants/wildflowers/common-gorse/full.jpg
+  
+  leaves:
+    description: My leaves have evolved into green spines to help me save water and protect myself from being eaten. They're sharp, so be careful!
+    image: /assets/images/plants/wildflowers/common-gorse/leaves.jpg
+  
+  flowers:
+    description: My flowers are bright yellow and shaped like little pea flowers. They're very fragrant and smell like coconut or vanilla ice cream!
+    image: /assets/images/plants/wildflowers/common-gorse/flowers.jpg
+
+fun_facts:
+  - There's an old saying: "When gorse is out of bloom, kissing is out of season" - this is because you can find at least some gorse flowers all year round!
+  - My flowers smell like coconut or vanilla ice cream.
+  - I'm related to peas and beans - you can see this in my flower shape.
+  - I provide excellent shelter for birds and small animals.
+
+warnings:
+  - I'm very prickly - be careful when examining me!
+  - My sharp spines can hurt if you touch them.
+  - Keep a safe distance and just enjoy my bright yellow flowers.
+
+seasonal_info:
+  spring: I have lots of bright yellow flowers
+  summer: I continue flowering and my seed pods develop
+  autumn: I still have some flowers, and my seed pods burst open
+  winter: You can still find some of my flowers even in cold weather! 

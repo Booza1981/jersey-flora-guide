@@ -1,0 +1,42 @@
+id: elder
+name: Elder
+scientific_name: Sambucus nigra
+category: trees
+description: I can grow as a shrub or small tree, reaching up to 10 metres tall. I often have multiple stems growing from my base and tend to spread out rather than grow tall.
+
+features:
+  appearance:
+    description: I can grow as a shrub or small tree, reaching up to 10 metres tall. I often have multiple stems growing from my base and tend to spread out rather than grow tall.
+    image: /assets/images/plants/trees/elder/full.jpg
+  
+  leaves:
+    description: My leaves are compound with 5-7 leaflets arranged oppositely along a central stem. They have a distinctive smell when crushed – some people think it's unpleasant!
+    image: /assets/images/plants/trees/elder/leaves.jpg
+  
+  bark:
+    description: My bark is grey-brown with deep corky ridges and grooves. When I'm young, my stems have a unique feature – they're filled with a soft, spongy pith in the middle.
+    image: /assets/images/plants/trees/elder/bark.jpg
+  
+  flowers:
+    description: In early summer, I have large, flat-topped clusters of tiny creamy-white flowers. They have a sweet, fragrant smell that many people love!
+    image: /assets/images/plants/trees/elder/flowers.jpg
+  
+  seeds:
+    description: My seeds are inside small purple-black berries that grow in drooping clusters in late summer and autumn.
+    image: /assets/images/plants/trees/elder/seeds.jpg
+
+fun_facts:
+  - My flowers can be used to make elderflower cordial!
+  - My berries can be made into elderberry jam (but only when cooked).
+  - I'm named 'elder' because of my hollow stems which were once used to make musical instruments.
+  - In folklore, I was believed to keep evil spirits away if planted near houses.
+
+warnings:
+  - Raw berries and other parts can make you poorly - they must be cooked before eating.
+  - Only eat products made from elder if prepared by grown-ups who know what they're doing.
+
+seasonal_info:
+  spring: My leaves appear and grow quickly
+  summer: My creamy-white flower clusters bloom and smell wonderful
+  autumn: My berries ripen to purple-black and feed many birds
+  winter: My bare branches show my distinctive bark 

@@ -1,0 +1,42 @@
+id: rowan
+name: Rowan / Mountain Ash
+scientific_name: Sorbus aucuparia
+category: trees
+description: I'm a small to medium-sized tree that can grow up to 15 metres tall. I have a slender trunk and a rounded crown.
+
+features:
+  appearance:
+    description: I'm a small to medium-sized tree that can grow up to 15 metres tall. I have a slender trunk and a rounded crown.
+    image: /assets/images/plants/trees/rowan/full.jpg
+  
+  leaves:
+    description: My leaves are compound, which means each leaf is made up of 5-8 pairs of smaller leaflets arranged along a central stem. They're toothed around the edges and look a bit like fern fronds.
+    image: /assets/images/plants/trees/rowan/leaves.jpg
+  
+  bark:
+    description: My bark is smooth and grey when I'm young, and stays relatively smooth as I get older, with just a few cracks developing.
+    image: /assets/images/plants/trees/rowan/bark.jpg
+  
+  flowers:
+    description: In late spring, I grow clusters of small, creamy-white flowers with five petals. They smell quite sweet!
+    image: /assets/images/plants/trees/rowan/flowers.jpg
+  
+  seeds:
+    description: My seeds grow inside bright red berries that appear in clusters. These berries are a very important food source for birds in autumn and winter.
+    image: /assets/images/plants/trees/rowan/seeds.jpg
+
+fun_facts:
+  - My name 'Mountain Ash' comes from the fact that my leaves look a bit like ash tree leaves, even though we're not related!
+  - My other name 'Rowan' comes from an old Nordic word meaning 'getting red' - because of my berries!
+  - In old folklore, I was thought to protect against evil spirits.
+  - Birds love my berries so much that they often eat them all before winter!
+
+warnings:
+  - Raw berries shouldn't be eaten by humans.
+  - Please leave the berries for the birds who need them for food.
+
+seasonal_info:
+  spring: My compound leaves appear and I bloom with white flower clusters
+  summer: My flowers turn into green berries
+  autumn: My berries turn bright red and my leaves become golden
+  winter: My bare branches still show clusters of red berries if birds haven't eaten them all 

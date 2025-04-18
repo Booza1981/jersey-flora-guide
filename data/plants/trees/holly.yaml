@@ -1,0 +1,42 @@
+id: holly
+name: Holly
+scientific_name: Ilex aquifolium
+category: trees
+description: I'm an evergreen tree, which means I keep my leaves all year round! I can grow quite tall, up to 15 meters.
+
+features:
+  appearance:
+    description: I'm an evergreen tree, which means I keep my leaves all year round! I can grow quite tall, up to 15 meters.
+    image: /assets/images/plants/trees/holly/full.jpg
+  
+  leaves:
+    description: My leaves are dark green, glossy and very spiky! They are thick and tough, which helps protect me from hungry animals.
+    image: /assets/images/plants/trees/holly/leaves.jpg
+  
+  bark:
+    description: My bark is smooth and grey when I'm young, but gets bumpier as I get older.
+    image: /assets/images/plants/trees/holly/bark.jpg
+  
+  flowers:
+    description: My flowers are small and white with a sweet smell. Female holly trees grow berries after flowering.
+    image: /assets/images/plants/trees/holly/flowers.jpg
+  
+  seeds:
+    description: My seeds are inside bright red berries that appear in autumn and winter. Birds love to eat them!
+    image: /assets/images/plants/trees/holly/seeds.jpg
+
+fun_facts:
+  - People often use holly branches with berries to decorate their houses at Christmas time!
+  - Only female holly trees produce berries.
+  - My spiky leaves protect birds when they nest in my branches.
+  - I can live for up to 300 years!
+
+warnings:
+  - My leaves are very spiky, so be careful when touching them!
+  - My berries are poisonous to humans but safe for birds.
+
+seasonal_info:
+  spring: My white flowers bloom
+  summer: Female trees start developing berries
+  autumn: My berries turn bright red
+  winter: I keep my green leaves and red berries, providing food for birds 
